@@ -1,0 +1,6 @@
+[options]
+autocomplete_method = "coc"
+bootstrap_before = 'scala#before'
+
+[[layers]]
+name = 'lang#scala'
